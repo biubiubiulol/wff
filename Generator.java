@@ -1,7 +1,7 @@
 package wffgenerator;
 
 import java.util.*;
-
+//test
 public class Generator
 {
 	public static boolean hasNext(String s)
